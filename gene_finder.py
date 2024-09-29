@@ -1,5 +1,5 @@
-from Bio.Seq import Seq
 from Bio import SeqIO
+from Bio.Seq import Seq
 
 def find_genes_in_fasta(file_path):
     # Parse the FASTA file
