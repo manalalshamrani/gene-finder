@@ -43,5 +43,5 @@ The results file is output4.txt.
 
 
 ## 6. Cofe for 6 updated
-The  code to include length is implmented in [trans_dna_filtered2.py](https://github.com/manalalshamrani/gene-finder/blob/master/trans_dna_filtered2.py).
+The  code to include Shine-Dalgarno sequence is implmented in [trans_dna_filtered2.py](https://github.com/manalalshamrani/gene-finder/blob/master/trans_dna_filtered2.py).
 
