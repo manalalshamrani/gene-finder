@@ -1,9 +1,11 @@
 # gene-finder
 
 ## 1. Code
-The main functionality of the gene finder tool is implemented in [gene_finder.py](https://github.com/manalalshamrani/gene-finder/blob/master/gene_finder.py).
+The gene finder tool is implemented in [gene_finder.py](https://github.com/manalalshamrani/gene-finder/blob/master/gene_finder.py).
+The results file is q1.txt
 
 ## 2. Code for 1,2 combined
+The extended code to include reverse complments is implmented in [gene_finder_2.py](https://github.com/manalalshamrani/gene-finder/blob/master/gene_finder_2.py).
 
 
 ## 3. Code for Rosalind
