@@ -27,8 +27,21 @@ done
 The results file is output3.txt. 
 
 ## 5. Code for 5 updated 
+#!/bin/bash                                                                                                                                                                                                 
+```bash
+echo "" > output4.txt
+for file in GCA*.fna
+do
+   echo "Processing $file"
+   echo $file >> output4.txt
+   python trans_dna_filtered.py -f $file -l 100  >> output4.txt
+done
+```
+
 The  code to include length is implmented in [trans_dna_filtered.py](https://github.com/manalalshamrani/gene-finder/blob/master/trans_dna_filtered.py).
-The results file is results2.txt. 
+The results file is output4.txt. 
 
 
 ## 6. Cofe for 6 updated
+The  code to include length is implmented in [trans_dna_filtered2.py](https://github.com/manalalshamrani/gene-finder/blob/master/trans_dna_filtered2.py).
+The results file is output5.txt. 
