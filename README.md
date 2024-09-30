@@ -9,7 +9,8 @@ The extended code to include reverse complments is implmented in [gene_finder_2.
 The results file is output.txt.
 
 ## 3. Code for Rosalind
-
+The extended code to include reverse complments is implmented in [trans_dna.py.py](https://github.com/manalalshamrani/gene-finder/blob/master/trans_dna.py).
+The results file is output2.txt. 
 
 ## 4. 14: screenshot of command line
 
