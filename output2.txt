@@ -1,0 +1,5 @@
+Protein: M
+Protein: MTPRLGL
+Protein: MLLGSFRLIPKETL
+Protein: MGM
+Protein: MIRV
