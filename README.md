@@ -9,7 +9,7 @@ The extended code to include reverse complments is implmented in [gene_finder_2.
 The results file is output.txt.
 
 ## 3. Code for Rosalind
-The extended code to include reverse complments is implmented in [trans_dna.py](https://github.com/manalalshamrani/gene-finder/blob/master/trans_dna.py).
+The Rosalind code is implmented in [trans_dna.py](https://github.com/manalalshamrani/gene-finder/blob/master/trans_dna.py).
 The results file is output2.txt. 
 
 ## 4. 14: screenshot of command line
@@ -27,6 +27,8 @@ done
 The results file is output3.txt. 
 
 ## 5. Code for 5 updated 
+The  code to include length is implmented in [trans_dna_filtered.py](https://github.com/manalalshamrani/gene-finder/blob/master/trans_dna_filtered.py).
+The results file is results2.txt. 
 
 
 ## 6. Cofe for 6 updated
