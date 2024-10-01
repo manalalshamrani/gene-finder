@@ -46,5 +46,7 @@ The results file is output4.txt.
 The  code to include Shine-Dalgarno sequence is implmented in [trans_dna_filtered2.py](https://github.com/manalalshamrani/gene-finder/blob/master/trans_dna_filtered2.py).
 
 
+
+#
 This HW was done with the help of Dalia, Layan, Yazeed and Haoling.
 BlackBox AI was used to debugg code.
