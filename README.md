@@ -27,8 +27,9 @@ done
 The results file is output3.txt. 
 
 ## 5. Code for 5 updated 
-#!/bin/bash                                                                                                                                                                                                 
+                                                                                                                                                                                               
 ```bash
+#!/bin/bash  
 echo "" > output4.txt
 for file in GCA*.fna
 do
