@@ -13,18 +13,22 @@ The Rosalind code is implmented in [trans_dna.py](https://github.com/manalalsham
 The results file is output2.txt. 
 
 ## 4. 14: screenshot of command line
+Used to run 14 files:
 ```bash
-#!/bin/bash                                                                                                                                                                                                 
-
-echo> output3.txt
+#!/bin/bash                                                                                                                                                                              
+       
 for file in GCA*.fna
 do
    echo "Processing $file"
-   echo $file >> output3.txt
-   python trans_dna.py $file >> output3.txt
+   echo $file
+   python gene_finder4.py -f $file
 done
 ```
-The results file is output3.txt. 
+Analysis done on 14 files:
+```bash
+[alshammm@login509-02-l ~]$ wc -l output.q4.txt
+765195 output.q4.txt
+```
 
 ## 5. Code for 5 updated 
                                                                                                                                                                                          The  code to include length is implmented in [trans_dna_filtered.py](https://github.com/manalalshamrani/gene-finder/blob/master/trans_dna_filtered.py).
