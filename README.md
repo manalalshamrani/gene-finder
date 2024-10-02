@@ -18,7 +18,7 @@ Analysis done on GCA_000007125.1_ASM712v1_genomic.fna file:
 125569 output.q2.txt
 ```
 
-## 3. Code for Rosalind
+## 3.
 The Rosalind code is implmented in [trans_dna.py](https://github.com/manalalshamrani/gene-finder/blob/master/trans_dna.py).
 
 
@@ -42,7 +42,7 @@ Analysis done on 14 files:
 765195 output.q4.txt
 ```
 
-## 5. Code for 5 updated 
+## 5.
                                                                                                                                                                                         
 The  code to include Shine-Dalgarno sequence is implmented in [gene_finder5.py](https://github.com/manalalshamrani/gene-finder/blob/master/data/gene_finder5.py).                                           </p>                                                                                                                                           
 Analysis done on: GCA_000007125.1_ASM712v1_genomic.fna
@@ -53,7 +53,7 @@ Analysis done on: GCA_000007125.1_ASM712v1_genomic.fna
 ```
 
 
-## 6. Cofe for 6 updated
+## 6. 
 The  code to include Shine-Dalgarno sequence is implmented in [gene_finder6.py](https://github.com/manalalshamrani/gene-finder/blob/master/data/gene_finder6.py).
 
 Analysis done on: GCA_000007125.1_ASM712v1_genomic.fna
