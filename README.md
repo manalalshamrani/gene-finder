@@ -1,7 +1,7 @@
 # gene-finder
 
 ## 1. Code
-The gene finder tool is implemented in [gene_finder.py](https://github.com/manalalshamrani/gene-finder/blob/master/data/gene_finder.py).
+The gene finder tool is implemented in [gene_finder1.py](https://github.com/manalalshamrani/gene-finder/blob/master/data/gene_finder1.py).
 
 Analysis done on GCA_000007125.1_ASM712v1_genomic.fna file:
 ```bash
