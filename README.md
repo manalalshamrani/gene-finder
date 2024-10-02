@@ -1,6 +1,6 @@
 # gene-finder
 
-## 1. Code
+## 1. 
 The gene finder tool is implemented in [gene_finder1.py](https://github.com/manalalshamrani/gene-finder/blob/master/data/gene_finder1.py).
 
 Analysis done on GCA_000007125.1_ASM712v1_genomic.fna file:
@@ -9,7 +9,7 @@ Analysis done on GCA_000007125.1_ASM712v1_genomic.fna file:
 62606 output.q1.txt
 ```
 
-## 2. Code for 1,2 combined
+## 2. 
 The extended code to include reverse complments is implmented in [gene_finder2.py](https://github.com/manalalshamrani/gene-finder/blob/master/data/gene_finder2.py).
 
 Analysis done on GCA_000007125.1_ASM712v1_genomic.fna file:
@@ -22,8 +22,8 @@ Analysis done on GCA_000007125.1_ASM712v1_genomic.fna file:
 The Rosalind code is implmented in [trans_dna.py](https://github.com/manalalshamrani/gene-finder/blob/master/trans_dna.py).
 
 
-## 4. 14: screenshot of command line
-                                                                                                                                                                                         The  code to include length is implmented in [gene_finder4.py](https://github.com/manalalshamrani/gene-finder/blob/master/data/gene_finder4.py).
+## 4.
+The  code to include Shine-Dalgarno sequence is implmented in [gene_finder4.py](https://github.com/manalalshamrani/gene-finder/blob/master/data/gene_finder4.py).
                                                                                                                                                                                          
 Used to run 14 files:
 ```bash
@@ -43,7 +43,8 @@ Analysis done on 14 files:
 ```
 
 ## 5. Code for 5 updated 
-                                                                                                                                                                                         The  code to include length is implmented in [gene_finder5.py](https://github.com/manalalshamrani/gene-finder/blob/master/data/gene_finder5.py).
+                                                                                                                                                                                        
+The  code to include Shine-Dalgarno sequence is implmented in [gene_finder5.py](https://github.com/manalalshamrani/gene-finder/blob/master/data/gene_finder5.py).                                                                                                                                                                                      
 Analysis done on: GCA_000007125.1_ASM712v1_genomic.fna
   
 ```bash
