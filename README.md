@@ -44,7 +44,7 @@ Analysis done on 14 files:
 
 ## 5. Code for 5 updated 
                                                                                                                                                                                         
-The  code to include Shine-Dalgarno sequence is implmented in [gene_finder5.py](https://github.com/manalalshamrani/gene-finder/blob/master/data/gene_finder5.py).                                                                                                                                                                                      
+The  code to include Shine-Dalgarno sequence is implmented in [gene_finder5.py](https://github.com/manalalshamrani/gene-finder/blob/master/data/gene_finder5.py).                                           </p>                                                                                                                                           
 Analysis done on: GCA_000007125.1_ASM712v1_genomic.fna
   
 ```bash
