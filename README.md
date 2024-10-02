@@ -23,7 +23,7 @@ The Rosalind code is implmented in [trans_dna.py](https://github.com/manalalsham
 
 
 ## 4.
-The  code to include Shine-Dalgarno sequence is implmented in [gene_finder4.py](https://github.com/manalalshamrani/gene-finder/blob/master/data/gene_finder4.py).
+The  code is implmented in [gene_finder4.py](https://github.com/manalalshamrani/gene-finder/blob/master/data/gene_finder4.py).
                                                                                                                                                                                          
 Used to run 14 files:
 ```bash
@@ -44,7 +44,7 @@ Analysis done on 14 files:
 
 ## 5.
                                                                                                                                                                                         
-The  code to include Shine-Dalgarno sequence is implmented in [gene_finder5.py](https://github.com/manalalshamrani/gene-finder/blob/master/data/gene_finder5.py).                                           </p>                                                                                                                                           
+The  code is implmented in [gene_finder5.py](https://github.com/manalalshamrani/gene-finder/blob/master/data/gene_finder5.py).                                           </p>                                                                                                                                           
 Analysis done on: GCA_000007125.1_ASM712v1_genomic.fna
   
 ```bash
