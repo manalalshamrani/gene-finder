@@ -1,7 +1,7 @@
 # gene-finder
 
 ## 1. Code
-The gene finder tool is implemented in [gene_finder.py](https://github.com/manalalshamrani/gene-finder/blob/master/gene_finder.py).
+The gene finder tool is implemented in [gene_finder.py](https://github.com/manalalshamrani/gene-finder/blob/master/data/gene_finder.py).
 
 Analysis done on GCA_000007125.1_ASM712v1_genomic.fna file:
 ```bash
@@ -10,7 +10,7 @@ Analysis done on GCA_000007125.1_ASM712v1_genomic.fna file:
 ```
 
 ## 2. Code for 1,2 combined
-The extended code to include reverse complments is implmented in [gene_finder_2.py](https://github.com/manalalshamrani/gene-finder/blob/master/gene_finder_2.py).
+The extended code to include reverse complments is implmented in [gene_finder2.py](https://github.com/manalalshamrani/gene-finder/blob/master/data/gene_finder2.py).
 
 Analysis done on GCA_000007125.1_ASM712v1_genomic.fna file:
 ```bash
@@ -23,6 +23,8 @@ The Rosalind code is implmented in [trans_dna.py](https://github.com/manalalsham
 
 
 ## 4. 14: screenshot of command line
+                                                                                                                                                                                         The  code to include length is implmented in [gene_finder4.py](https://github.com/manalalshamrani/gene-finder/blob/master/data/gene_finder4.py).
+                                                                                                                                                                                         
 Used to run 14 files:
 ```bash
 #!/bin/bash                                                                                                                                                                              
@@ -41,7 +43,7 @@ Analysis done on 14 files:
 ```
 
 ## 5. Code for 5 updated 
-                                                                                                                                                                                         The  code to include length is implmented in [trans_dna_filtered.py](https://github.com/manalalshamrani/gene-finder/blob/master/trans_dna_filtered.py).
+                                                                                                                                                                                         The  code to include length is implmented in [gene_finder5.py](https://github.com/manalalshamrani/gene-finder/blob/master/data/gene_finder5.py).
 Analysis done on: GCA_000007125.1_ASM712v1_genomic.fna
   
 ```bash
@@ -51,7 +53,7 @@ Analysis done on: GCA_000007125.1_ASM712v1_genomic.fna
 
 
 ## 6. Cofe for 6 updated
-The  code to include Shine-Dalgarno sequence is implmented in [trans_dna_filtered2.py](https://github.com/manalalshamrani/gene-finder/blob/master/trans_dna_filtered2.py).
+The  code to include Shine-Dalgarno sequence is implmented in [gene_finder6.py](https://github.com/manalalshamrani/gene-finder/blob/master/data/gene_finder6.py).
 
 Analysis done on: GCA_000007125.1_ASM712v1_genomic.fna
 ```bash
