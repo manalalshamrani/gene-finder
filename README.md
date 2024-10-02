@@ -46,6 +46,12 @@ The results file is output4.txt.
 ## 6. Cofe for 6 updated
 The  code to include Shine-Dalgarno sequence is implmented in [trans_dna_filtered2.py](https://github.com/manalalshamrani/gene-finder/blob/master/trans_dna_filtered2.py).
 
+Analysis done on: GCA_000007125.1_ASM712v1_genomic.fna
+```bash
+[alshammm@login509-02-l data]$ wc -l /home/alshammm/output.q6.txt
+115 /home/alshammm/output.q6.txt
+```
+
 
 
 #
